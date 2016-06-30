@@ -1,0 +1,14 @@
+layout_spectrum: 0.31316503742709756
+typography_spectrum: 0.478485023137182
+color:
+  brandStrength: 0.8975238704588264
+  lightness: 0.4527978179976344
+  saturation: 0.038122393656522036
+  rhythmicContrast: 0.36426246142946184
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Viktorious Test Site
